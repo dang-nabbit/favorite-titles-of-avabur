@@ -22,8 +22,9 @@ Unmarking a title as favorite directly from the favorite titles list won't remov
 (_Long explanation: the script copies the whole title row to the **Favorites** panel, including the **Use** and **Edit** links. This was easier than recreating these links myself. Because of this, adding current title to favorites would make it appear with the **In use** text instead of the **Use** link, making it pretty much useless. Plus, it would be impossible to obtain the ID of titles other than **Nobility** and **Custom** titles, since the ID is only contained in the **Use** and **Edit** links, and such titles don't have **Edit** links._)
 - Editing a title after it's added to the favorites list doesn't update the text in the favorites panel (same reason as above). If you want to update the title in favorites panel, unmark it as mark it as favorite again. Just make sure you mark it as favorite from the main title panel, not the favorites panel. In a similar fashion, **Pride Month** titles don't switch colors at random in the favorites panel (this means you can keep trying to reload the **Event Titles** panel until you get a rainbow proc or whatever color you prefer and then mark it as favorite to keep that color in the favorites panel).
 - Your current title doesn't show the **In use** text in the favorites panel, for the same reason as the first issue.
-- When clicking the **Use** link for a title in the favorites panel, the original title type panel is selected automatically. This is just how the **Use** link works, blame Vysn.
+- When clicking the **Use** link for a title in the favorites panel, the original title type panel is selected automatically. This is just how the **Use** link works, blame @Vysn.
 - When you unmark a title as favorite and mark it as favorite again, it will be added to the end of the favorites list. I might fix this is it bothers people too much.
+- I can't make the favorites panel show as default when you refresh the page, because the game automatically selects **Nobility Titles** as default. Again, blame @Vysn.
 
 ## Special thanks
 - @Lotusenta, who gave me the idea. Without her, this wouldn't exist.
