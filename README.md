@@ -5,7 +5,7 @@ Made by @dang, donations are accepted. :)
 
 ## Installation
 1. Install a userscript browser addon like Greasemonkey or Violentmonkey
-1. [Click here](https://github.com/dang-nabbit/favorite-titles-of-avabur/raw/master/favorite-titles-of-avabur.user.js) to install the script and confirm installation on the tab that opens. (Or click the (favorite-titles-of-avabur.user.js)[https://github.com/dang-nabbit/favorite-titles-of-avabur/blob/master/favorite-titles-of-avabur.user.js] file in the list above, then click the **Raw** button on the top right of the code.)
+1. [Click here](https://github.com/dang-nabbit/favorite-titles-of-avabur/raw/master/favorite-titles-of-avabur.user.js) to install the script and confirm installation on the tab that opens. (Or click the [favorite-titles-of-avabur.user.js](https://github.com/dang-nabbit/favorite-titles-of-avabur/blob/master/favorite-titles-of-avabur.user.js) file in the list above, then click the **Raw** button on the top right of the code.)
 
 ## Usage
 In the titles panel, there's a **Favorites** button to the left of the title type buttons. Clicking this button will show the titles you marked as favorite, allowing you to use them or edit their color.
