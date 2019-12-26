@@ -24,7 +24,7 @@ Unmarking a title as favorite directly from the favorite titles list won't remov
 - Your current title doesn't show the **In use** text in the favorites panel, for the same reason as the first issue.
 - When clicking the **Use** link for a title in the favorites panel, the original title type panel is selected automatically. This is just how the **Use** link works, blame @Vysn.
 - When you unmark a title as favorite and mark it as favorite again, it will be added to the end of the favorites list. I might fix this is it bothers people too much.
-- I can't make the favorites panel show as default when you refresh the page, because the game automatically selects **Nobility Titles** as default. Again, blame @Vysn.
+- I can't make the favorites panel show as default when you click the **Title** link in the header, because the game automatically selects **Nobility Titles** as default. Again, blame @Vysn.
 
 ## Special thanks
 - @Lotusenta, who gave me the idea. Without her, this wouldn't exist.
